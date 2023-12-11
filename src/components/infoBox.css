@@ -1,0 +1,26 @@
+.info-box{
+    min-width: 230px;
+    padding: 1rem;
+    padding-left: 0;
+    align-items: center;
+    color: white;
+    margin: 7px;
+    margin-left: 0;
+    cursor: pointer;
+    justify-content: center;
+    vertical-align: middle;
+
+}
+
+.info-box:hover{
+    transform: translateY(-2px);
+    transition: all 0.1s ease-in-out;
+}
+
+.info-box p{
+    font-size: 1.4rem;
+    opacity: 80%;
+}
+.info-box h3{
+    font-size: 1.9rem;
+}
